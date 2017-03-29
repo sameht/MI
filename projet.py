@@ -1,6 +1,6 @@
 import baseRegle
 import baseFait
-
+#// comments
 class projet:
 
 	def __init__(self, nom, description, BF, BR, Resultat, Mode):
